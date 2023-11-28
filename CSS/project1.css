@@ -147,7 +147,7 @@ body {
 /* End Header */
 /* Start Landing Section */
 .landing {
-  background-image: url(../imges/85838144-black-and-white-mountain-in-switzerland.webp);
+    background-image: url(../imges/85838144-black-and-white-mountain-in-switzerland.webp);
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
